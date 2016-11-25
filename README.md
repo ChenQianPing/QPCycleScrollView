@@ -25,7 +25,17 @@ extension ViewController:QPCycleScrollViewDelegate {
 }
 ```
 
-# **支持pod导入**
-```
-pod 'QPCycleScrollView', '~> 1.0.1'
-```
+# Cocoapods
+
+Add pod ```'QPCycleScrollView', '~> 1.0.1'``` to your Podfile
+Run ```pod install``` or ```pod update```
+
+# Contributing
+
+- If you need help, open an issue.
+- If you found a bug, open an issue.
+- If you have a new demand, also open an issue.
+
+# MIT License
+
+QPCycleScrollView is available under the MIT license. See the LICENSE file for more info.
