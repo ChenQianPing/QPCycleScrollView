@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "QPCycleScrollView"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "CycleScrollView for Swift."
   s.description  = <<-DESC
   It is a CycleScrollView used on iOS, which implement by Swift.
