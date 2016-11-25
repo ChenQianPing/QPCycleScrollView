@@ -11,7 +11,8 @@ Pod::Spec.new do |s|
   s.author             = { "QianPing Chen" => "pingkeke@163.com" }
   s.platform     = :ios, "9.2"
   s.source       = { :git => "https://github.com/ChenQianPing/QPCycleScrollView.git", :tag => s.version.to_s }
-  s.source_files  = "QPCycleScrollView/*"
+  s.source_files  = "QPCycleScrollView/*.swift"
   s.framework  = "UIKit"
+  s.module_name = 'QPCycleScrollView'
 
 end
